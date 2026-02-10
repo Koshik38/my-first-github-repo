@@ -1,4 +1,6 @@
 div{
     background-color: turquoise;
     padding: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
 }
